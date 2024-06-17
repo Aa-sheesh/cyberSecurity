@@ -1,4 +1,4 @@
-<h1 style="color:aqua; ">Topics under Ethical Hacking & Cyber Security**</h1>
+# **Topics under Ethical Hacking & Cyber Security**
 **Cyber Security & Ethical Hacking**
 - Need of cyber security
 - Ethical hacking
@@ -26,25 +26,25 @@
 - IdAM
 - Password protection
 - Identity threats
-- Vulnerability Analysis (VA) & System Hacking
+**Vulnerability Analysis (VA) & System Hacking**
 - VA Types
-VA Lifecycle
-VA Tools
-Vulnerability scoring system
-VA Report
-System Hacking
-Password cracking
-Privilege escalation, hiding files, clearing logs
-Sning & SQL Injection
-Malware & its types
-Sniffing attacks & its types
-SQL injection & its types
-Denial of Service (DoS) & Session Hijacking
-DoS attacks & symptoms
-DoS detection
-System Hijacking
-Session / Application level hijacking
-Intrusion Detection Systems (IDS) & types
-Firewalls & Types
-Honeypots
-Evading IDS
+- VA Lifecycle
+- VA Tools
+- Vulnerability scoring system
+- VA Report
+- System Hacking
+- Password cracking
+- Privilege escalation, hiding files, clearing logs
+**Sniffing & SQL Injection**
+-Malware & its types
+-Sniffing attacks & its types
+- SQL injection & its types
+**Denial of Service (DoS) & Session Hijacking**
+- DoS attacks & symptoms
+- DoS detection
+- System Hijacking
+- Session / Application level hijacking
+- Intrusion Detection Systems (IDS) & types
+- Firewalls & Types
+- Honeypots
+- Evading IDS
