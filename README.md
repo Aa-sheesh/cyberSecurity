@@ -1,32 +1,32 @@
 # **Topics under Ethical Hacking & Cyber Security**
-**Cyber Security & Ethical Hacking**
+## **Cyber Security & Ethical Hacking**
 - Need of cyber security
 - Ethical hacking
 - Types of hackers
 - Penetration Testing
 - Footprinting
 - Footprinting techniques
-**Cryptography**
+## **Cryptography**
 - Types of Cryptography
 - Symmetric / Asymmetric
 - Digital Signatures
 - Hash functions
-**Computer Networks & Security**
+## **Computer Networks & Security**
 - Computer Network Architecture; Layered Architecture
 - OSI Model
 - TCP / IP Model
 - Common Network Threats
-**Application & Web Security**
+## **Application & Web Security**
 - Web server architecture & attacks
 - Web client architecture & attacks
 - Counter measures & patch management
-**Identity & Access Management (IdAM)**
+## **Identity & Access Management (IdAM)**
 - Authentication
 - Authorization
 - IdAM
 - Password protection
 - Identity threats
-**Vulnerability Analysis (VA) & System Hacking**
+## **Vulnerability Analysis (VA) & System Hacking**
 - VA Types
 - VA Lifecycle
 - VA Tools
@@ -35,11 +35,11 @@
 - System Hacking
 - Password cracking
 - Privilege escalation, hiding files, clearing logs
-**Sniffing & SQL Injection**
+## **Sniffing & SQL Injection**
 -Malware & its types
 -Sniffing attacks & its types
 - SQL injection & its types
-**Denial of Service (DoS) & Session Hijacking**
+## **Denial of Service (DoS) & Session Hijacking**
 - DoS attacks & symptoms
 - DoS detection
 - System Hijacking
