@@ -1,4 +1,4 @@
-# **`#739`Topics under Ethical Hacking & Cyber Security**
+<h1 style="color:blue">Topics under Ethical Hacking & Cyber Security**</h1>
 **Cyber Security & Ethical Hacking**
 - Need of cyber security
 - Ethical hacking
@@ -7,27 +7,27 @@
 - Footprinting
 - Footprinting techniques
 **Cryptography**
--Types of Cryptography
--Symmetric / Asymmetric
--Digital Signatures
--Hash functions
+- Types of Cryptography
+- Symmetric / Asymmetric
+- Digital Signatures
+- Hash functions
 **Computer Networks & Security**
--Computer Network Architecture; Layered Architecture
--OSI Model
--TCP / IP Model
--Common Network Threats
+- Computer Network Architecture; Layered Architecture
+- OSI Model
+- TCP / IP Model
+- Common Network Threats
 **Application & Web Security**
--Web server architecture & attacks
--Web client architecture & attacks
--Counter measures & patch management
+- Web server architecture & attacks
+- Web client architecture & attacks
+- Counter measures & patch management
 **Identity & Access Management (IdAM)**
-Authentication
-Authorization
-IdAM
-Password protection
-Identity threats
-Vulnerability Analysis (VA) & System Hacking
-VA Types
+- Authentication
+- Authorization
+- IdAM
+- Password protection
+- Identity threats
+- Vulnerability Analysis (VA) & System Hacking
+- VA Types
 VA Lifecycle
 VA Tools
 Vulnerability scoring system
