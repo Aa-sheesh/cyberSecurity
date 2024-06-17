@@ -1,11 +1,11 @@
 # **`#739`Topics under Ethical Hacking & Cyber Security**
 **Cyber Security & Ethical Hacking**
--Need of cyber security
--Ethical hacking
--Types of hackers
--Penetration Testing
--Footprinting
--Footprinting techniques
+- Need of cyber security
+- Ethical hacking
+- Types of hackers
+- Penetration Testing
+- Footprinting
+- Footprinting techniques
 **Cryptography**
 -Types of Cryptography
 -Symmetric / Asymmetric
