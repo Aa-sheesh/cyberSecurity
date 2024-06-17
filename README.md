@@ -36,8 +36,8 @@
 - Password cracking
 - Privilege escalation, hiding files, clearing logs
 ## **Sniffing & SQL Injection**
--Malware & its types
--Sniffing attacks & its types
+- Malware & its types
+- Sniffing attacks & its types
 - SQL injection & its types
 ## **Denial of Service (DoS) & Session Hijacking**
 - DoS attacks & symptoms
